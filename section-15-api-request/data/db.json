@@ -1,0 +1,32 @@
+{
+    "destination": [
+        {
+            "id": 1,
+            "name": "Zilina",
+            "days": 7,
+            "price": 300,
+            "funFact": "Nic tu nefunguje"
+        },
+        {
+            "id": 2,
+            "name": "Poprad",
+            "days": 3,
+            "price": 500,
+            "funFact": "Tatry blizko"
+        },
+        {
+            "id": 3,
+            "name": "Handlova",
+            "days": 1,
+            "price": 100,
+            "funFact": "Fico pew pew"
+        },
+        {
+            "id": 4,
+            "name": "Brno",
+            "days": 5,
+            "price": 2100,
+            "funFact": "Daleko je to"
+        }
+    ]
+}
