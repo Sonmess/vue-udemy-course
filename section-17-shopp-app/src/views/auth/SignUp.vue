@@ -1,0 +1,5 @@
+<template>
+  <div class="container">
+    <h2 class="text-center">Sign Up</h2>
+  </div>
+</template>
