@@ -37,6 +37,11 @@
                 >Product list</router-link
               >
             </li>
+            <li class="nav-item">
+              <router-link class="nav-link" :to="{ name: APP_ROUTE_NAMES.PRODUCT_CREATE }"
+                >Product create</router-link
+              >
+            </li>
           </ul>
 
           <ul class="d-flex navbar-nav">
